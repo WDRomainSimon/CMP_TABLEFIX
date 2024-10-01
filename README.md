@@ -20,6 +20,6 @@ L'importation seul du composant ne suffit pas.
 
 Pour appliquer le fix sur vos tables, il faut :
 
-- Ajouter l'évènement "Initiable de TABLE_Exemple (Navigateur)" à votre table
+- Ajouter l'évènement "Initialisation de TABLE_Exemple (Navigateur)" à votre table
 - Ajouter le code `CMPTF_FixTableRupture(MoiMême..Alias)` dans cet évènement.
 - C'est tout ! Cette table possède maintenant le fix !
