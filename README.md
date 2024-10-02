@@ -11,6 +11,8 @@ Ce composant permet de fixer ce bug, en attendant que PC Soft déploie un correc
 ## Installation
 
 Télécharger le fichier ZIP de la version la plus récente dans ce dépôt Git.
+- Le suffix TXT contient le composant en format texte
+- Sans le suffix contient le composant en format binaire
 
 Dézipper le contenu dans le dossier de votre projet et importer le composant dans WebDev.
 
